@@ -1,5 +1,7 @@
 # maths
 
+silly unit test spike
+
 ## usage
 
 ```
